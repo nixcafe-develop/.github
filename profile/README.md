@@ -1,9 +1,9 @@
 # nixcafe / develop
 
-This organization hosts template repositories used by **[nixcafe/develop-templates](https://github.com/nixcafe/develop-templates)**.
+This organization contains the template source repositories used by [nixcafe/develop-templates](https://github.com/nixcafe/develop-templates).
 
-> These are generated template stubs — for documentation, issues, and contributions, please visit the main org:
+These repositories are template sources. For documentation, issues, and contributions, use the main organization:
 
-## [→ github.com/nixcafe](https://github.com/nixcafe)
+## [github.com/nixcafe](https://github.com/nixcafe)
 
-Docs: [templates.nixcafe.org](https://templates.nixcafe.org)
+Documentation: [templates.nixcafe.org](https://templates.nixcafe.org)
